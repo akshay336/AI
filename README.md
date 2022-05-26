@@ -1,0 +1,2 @@
+# AI
+Kruskal's Algorithm
